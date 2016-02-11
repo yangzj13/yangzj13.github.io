@@ -62,7 +62,7 @@ ba_track_id: e7847980fd765819aa62c54a34b576bd
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "沐朝露，伴夕阳，是我挚爱的生活。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/bob.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
