@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "杨子江的博客"
+description: "Boilerplate of Hux Blog"
 ---
 
 {% for post in paginator.posts %}
